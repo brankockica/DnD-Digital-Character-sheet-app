@@ -1,4 +1,4 @@
-# Repoteka
+# Digital Character Sheet
 Dungeons and bugs
 
 Code using PySimpleGUI library and some others.
